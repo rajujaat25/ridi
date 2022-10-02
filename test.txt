@@ -7,5 +7,10 @@ same hear
 
 do you take tea
 yes i take tea
+<<<<<<< HEAD
 
 what time do you take tea
+=======
+I teak tea at 6 o'clock
+
+>>>>>>> vc
